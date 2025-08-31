@@ -6,10 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C0A7&center=true&vCenter=true&width=600&lines=Welcome+to+my+LeetCode+Repo!;Solving+Daily+Challenges+🔥;LeetCode+Contest+Solutions+🏆;Consistency+is+the+Key+✨" />
 </p>
 
----
-# 🚀 Daily LeetCode Practice
 
-Welcome to my **Daily LeetCode Questions** repository! 🎯  
+
 Here I upload solutions of **LeetCode Daily Challenges** and **Weekly/ Biweekly Contests**.
 
 ---
